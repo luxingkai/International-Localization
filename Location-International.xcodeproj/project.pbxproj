@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		11A4EB65246576A6004B1009 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A4EB64246576A6004B1009 /* AppDelegate.m */; };
-		11A4EB68246576A6004B1009 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A4EB67246576A6004B1009 /* SceneDelegate.m */; };
 		11A4EB6B246576A6004B1009 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A4EB6A246576A6004B1009 /* ViewController.m */; };
 		11A4EB6E246576A6004B1009 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11A4EB6C246576A6004B1009 /* Main.storyboard */; };
 		11A4EB71246576A6004B1009 /* Location_International.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 11A4EB6F246576A6004B1009 /* Location_International.xcdatamodeld */; };
@@ -40,8 +39,6 @@
 		11A4EB60246576A6004B1009 /* Location-International.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Location-International.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		11A4EB63246576A6004B1009 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		11A4EB64246576A6004B1009 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		11A4EB66246576A6004B1009 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
-		11A4EB67246576A6004B1009 /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
 		11A4EB69246576A6004B1009 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		11A4EB6A246576A6004B1009 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		11A4EB6D246576A6004B1009 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -108,8 +105,6 @@
 			children = (
 				11A4EB63246576A6004B1009 /* AppDelegate.h */,
 				11A4EB64246576A6004B1009 /* AppDelegate.m */,
-				11A4EB66246576A6004B1009 /* SceneDelegate.h */,
-				11A4EB67246576A6004B1009 /* SceneDelegate.m */,
 				11A4EB69246576A6004B1009 /* ViewController.h */,
 				11A4EB6A246576A6004B1009 /* ViewController.m */,
 				11A4EB6C246576A6004B1009 /* Main.storyboard */,
@@ -273,7 +268,6 @@
 				11A4EB79246576A9004B1009 /* main.m in Sources */,
 				11A4EB6B246576A6004B1009 /* ViewController.m in Sources */,
 				11A4EB65246576A6004B1009 /* AppDelegate.m in Sources */,
-				11A4EB68246576A6004B1009 /* SceneDelegate.m in Sources */,
 				11A4EB71246576A6004B1009 /* Location_International.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
